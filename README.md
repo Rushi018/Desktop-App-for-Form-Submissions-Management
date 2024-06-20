@@ -13,10 +13,10 @@ Visual Basic: Programming language utilized for implementing the application log
 [![Visual Studio & Visual Basic](https://skillicons.dev/icons?i=visualstudio,vb)](https://skillicons.dev)
 
 # Screenshots :
-![Screenshot](https://github.com/Rushi018/InternalMarkAllotmentSystem/blob/971442b61ae228f7e814ba6f8fe83ef371037382/default.png)
-![Screenshot](https://github.com/Rushi018/InternalMarkAllotmentSystem/blob/971442b61ae228f7e814ba6f8fe83ef371037382/default.png)
-![Screenshot](https://github.com/Rushi018/InternalMarkAllotmentSystem/blob/971442b61ae228f7e814ba6f8fe83ef371037382/default.png)
-![Screenshot](https://github.com/Rushi018/InternalMarkAllotmentSystem/blob/971442b61ae228f7e814ba6f8fe83ef371037382/default.png)
+![Screenshot](https://github.com/Rushi018/Desktop-App-for-Form-Submissions-Management/blob/main/SubmissionApp/Screenshot%202024-06-21%20005920.png)
+![Screenshot](https://github.com/Rushi018/Desktop-App-for-Form-Submissions-Management/blob/main/SubmissionApp/Screenshot%202024-06-21%20010255.png)
+![Screenshot](https://github.com/Rushi018/Desktop-App-for-Form-Submissions-Management/blob/main/SubmissionApp/Screenshot%202024-06-21%20010440.png)
+![Screenshot](https://github.com/Rushi018/Desktop-App-for-Form-Submissions-Management/blob/main/SubmissionApp/Screenshot%202024-06-21%20010836.png)
 
 
 
