@@ -18,6 +18,61 @@ Visual Basic: Programming language utilized for implementing the application log
 ![Screenshot](https://github.com/Rushi018/Desktop-App-for-Form-Submissions-Management/blob/main/SubmissionApp/Screenshot%202024-06-21%20010440.png)
 ![Screenshot](https://github.com/Rushi018/Desktop-App-for-Form-Submissions-Management/blob/main/SubmissionApp/Screenshot%202024-06-21%20010836.png)
 
+# Backend Server for Desktop App
+
+# Description
+The backend server built with Express and TypeScript provides API endpoints for saving and retrieving submissions. It uses a JSON file (db.json) as a local database to store submissions.
+
+# Endpoints
+1. /ping
+  A GET request that always returns true.
+
+2. /submit
+  A POST request used to save submissions. Requires parameters: "name", "email", "phone", "github_link", and "stopwatch_time".
+
+3. /read
+  A GET request with a query parameter "index" (0-indexed) to retrieve the (index+1)th form submission.
+
+# JSON Database Structure (db.json)
+  {
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "phone": "123-456-7890",
+  "github_link": "https://github.com/johndoe",
+  "stopwatch_time": "01:30:00"
+  }
+
+# Commands Used
+
+```bash
+# 1. Install TypeScript
+npm install -g typescript
+
+# 2. Create a New Node.js Project
+mkdir backend-server
+cd backend-server
+npm init -y
+
+# 3. Install Necessary Packages
+# Install Express and types for Express and Node.js
+npm install express @types/express
+
+# Install TypeScript as a development dependency
+npm install --save-dev typescript
+
+# 4. Running the Server
+# Compile TypeScript files
+npx tsc
+
+# Start the server (assuming server.js is generated in ./dist directory)
+node ./dist/server.js 
+
+
+
+
+
+
+
 
 
 
