@@ -33,14 +33,17 @@ The backend server built with Express and TypeScript provides API endpoints for 
 3. /read
   A GET request with a query parameter "index" (0-indexed) to retrieve the (index+1)th form submission.
 
-# JSON Database Structure (db.json)
-  {
+# JSON Database Structure (`db.json`)
+
+```json
+{
   "name": "John Doe",
   "email": "john.doe@example.com",
   "phone": "123-456-7890",
   "github_link": "https://github.com/johndoe",
   "stopwatch_time": "01:30:00"
-  }
+}
+```
 
 # Commands Used
 
@@ -66,13 +69,4 @@ npx tsc
 
 # Start the server (assuming server.js is generated in ./dist directory)
 node ./dist/server.js 
-
-
-
-
-
-
-
-
-
-
+```
