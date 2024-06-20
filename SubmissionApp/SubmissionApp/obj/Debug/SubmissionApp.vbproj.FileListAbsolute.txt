@@ -1,0 +1,17 @@
+D:\DotnetPractice\SubmissionApp\SubmissionApp\bin\Debug\SubmissionApp.exe.config
+D:\DotnetPractice\SubmissionApp\SubmissionApp\bin\Debug\SubmissionApp.exe
+D:\DotnetPractice\SubmissionApp\SubmissionApp\bin\Debug\SubmissionApp.pdb
+D:\DotnetPractice\SubmissionApp\SubmissionApp\bin\Debug\SubmissionApp.xml
+D:\DotnetPractice\SubmissionApp\SubmissionApp\bin\Debug\Newtonsoft.Json.dll
+D:\DotnetPractice\SubmissionApp\SubmissionApp\bin\Debug\Newtonsoft.Json.xml
+D:\DotnetPractice\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.vbprojAssemblyReference.cache
+D:\DotnetPractice\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.CreateSubmissionForm.resources
+D:\DotnetPractice\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.Form1.resources
+D:\DotnetPractice\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.Resources.resources
+D:\DotnetPractice\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.ViewSubmissionsForm.resources
+D:\DotnetPractice\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.vbproj.GenerateResource.cache
+D:\DotnetPractice\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.vbproj.CoreCompileInputs.cache
+D:\DotnetPractice\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.vbproj.CopyComplete
+D:\DotnetPractice\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.exe
+D:\DotnetPractice\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.xml
+D:\DotnetPractice\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.pdb
